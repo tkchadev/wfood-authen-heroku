@@ -18,7 +18,6 @@ const findUsernameEmp = async (obj) => {
         result: null,
       };
     }
-
     return data;
   } catch (error) {
     data = {
